@@ -82,6 +82,6 @@ Frontend runs at: http://localhost:3000
 Deployed Links 
 Replace with your actual deployment URLs if available.
 
-Frontend: https://your-frontend.vercel.app
+Frontend: https://business-theta-eight.vercel.app/
 
-Backend API: https://your-backend.onrender.com
+Backend : https://business-pz0c.onrender.com
